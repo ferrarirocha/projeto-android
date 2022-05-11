@@ -57,6 +57,7 @@ header > p  {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+    padding-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.603);
 }
 
@@ -72,6 +73,7 @@ nav > a {
     border-radius: 5px;
     text-decoration: nome;
     font-weight: bold;
+    font-size: 12px;
     transition-duration: .5s;
 }
 
